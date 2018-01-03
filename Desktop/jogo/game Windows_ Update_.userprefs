@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="assets\Scripts\WinPortal.cs">
+    <Files>
+      <File FileName="assets\Scripts\EnterPortal1.cs" Line="73" Column="3" />
+      <File FileName="assets\Scripts\WinPortal.cs" Line="35" Column="3" />
+      <File FileName="assets\Scripts\EnterPortal2.cs" Line="1" Column="1" />
+      <File FileName="assets\Scripts\EnterPortal3.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

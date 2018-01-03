@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="assets\Scripts\PlayerController.cs">
+    <Files>
+      <File FileName="assets\Scripts\EnterPortal.cs" Line="73" Column="23" />
+      <File FileName="assets\Scripts\ScoreManager.cs" Line="25" Column="48" />
+      <File FileName="assets\Scripts\PlayerController.cs" Line="16" Column="38" />
+      <File FileName="assets\Scripts\EnemyManager.cs" Line="14" Column="60" />
+      <File FileName="assets\Scripts\SpawnManager.cs" Line="10" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
